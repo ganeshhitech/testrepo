@@ -1,0 +1,4 @@
+test
+stage
+unstaged
+test
